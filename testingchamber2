@@ -1,8 +1,8 @@
---[[task.wait(1)
+task.wait(1)
 if _G.alreadyrannn == true then
     return
 end
-_G.alreadyrannn = true]]
+_G.alreadyrannn = true
 
 local StrToNumber = tonumber;
 local Byte = string.byte;
